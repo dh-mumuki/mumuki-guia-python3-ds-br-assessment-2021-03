@@ -1,8 +1,9 @@
 ---
-name: ds-br-assessment-2021-03
+name: Desafio de Data Science
 locale: pt
 type: learning
 beta: false
+teacher_info: ''
 language: python3
 id_format: "%05d"
 order: []
