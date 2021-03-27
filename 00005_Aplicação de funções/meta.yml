@@ -1,0 +1,27 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '44'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '16'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '4'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '20'
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "-4"
+  checked: false
+name: Aplicação de funções

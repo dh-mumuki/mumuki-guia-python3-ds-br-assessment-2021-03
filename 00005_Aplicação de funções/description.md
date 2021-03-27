@@ -1,0 +1,1 @@
+Se _f(x) = 3x² + x_, qual o resultado de _f(3) - f(-2)_?
