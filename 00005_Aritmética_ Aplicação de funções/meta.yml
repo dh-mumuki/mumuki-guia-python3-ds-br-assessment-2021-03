@@ -24,4 +24,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "-4"
   checked: false
-name: Aplicação de funções
+name: 'Aritmética: Aplicação de funções'
