@@ -10,18 +10,16 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Estrutura do loop "while" não é adequada para o problema, escolheria outro
-    método de iteração
+  value: Estrutura do loop "while" não é adequada para o problema
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Existe um problema nos sinais de igualdade do loop while,  é necessário revisar
-    o loop
+  value: Existe um problema nos sinais de igualdade do loop while
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: É necessário revisar a sintaxe do código
+  value: Existe um problema de sintaxe no código
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: A condição de unidades no estoque esta errada, revisaria a clausula condicional
+  value: A condição de unidades no estoque esta errada
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Todas as anteriores

@@ -1,4 +1,4 @@
-Uma loja tem a seguinte regra: quando um produto ficar abaixo de 18 unidades no estoque, é necessário fazer um novo pedido. É necessário desmontar o dicionário em duas listas.
+Uma loja tem a seguinte regra: quando um produto ficar abaixo de 18 unidades no estoque, é necessário fazer um novo pedido. O estoque da loja é guardado em um dicionário e é necessário desmembra-lo em duas listas.
 Conside o seguinte código para informar ao gerente a necessidade de compras:
 
 estoque_loja = {
@@ -24,4 +24,4 @@ while len(estoque_loja) >= 0:
         produtosParaReposicao.append(item)
     del estoque_loja[item]
     
-Assinale as correções a serem feitas
+Assinale os problemas do código:
