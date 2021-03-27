@@ -1,0 +1,1 @@
+Pense no único evento que não pode acontecer para satisfazer os eventos desejados.
