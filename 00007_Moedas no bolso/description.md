@@ -1,0 +1,1 @@
+Ao buscar por moedas no seu bolso, cinco delas, idênticas, caem no chão. Qual é a probabilidade de aparecer cara na primeira, **ou** na segunda **ou** na terceira?
