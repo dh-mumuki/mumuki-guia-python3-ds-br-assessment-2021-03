@@ -1,0 +1,27 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: A medida que os anos passam, os carros se tornam mais eficientes
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: A mediana dos dados a partir de 1978 cai consideravelmente
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: No boxplot fornecido não é possível detectar nenhum outlier
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Não é possível observar assimetria dos dados de cada ano pelo boxplot
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Nenhuma das anteriores
+  checked: false
+name: Novo exercício
