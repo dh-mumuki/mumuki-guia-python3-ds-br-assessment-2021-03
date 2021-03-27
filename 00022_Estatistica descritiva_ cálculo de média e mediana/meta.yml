@@ -1,0 +1,27 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 41,6 ; 41; 41
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 40; 40; 41
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 41,6;  40,5, N/D
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 42; 41; N/D
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 41; 41; 41
+  checked: false
+name: 'Estatistica descritiva: cálculo de média e mediana'
