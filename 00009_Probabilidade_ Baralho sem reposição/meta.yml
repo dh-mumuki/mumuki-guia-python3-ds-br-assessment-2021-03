@@ -1,0 +1,27 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 20,0%
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 22,4%
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 23,5%
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 25,0%
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Nenhuma das anteriores
+  checked: false
+name: 'Probabilidade: Baralho sem reposição'
