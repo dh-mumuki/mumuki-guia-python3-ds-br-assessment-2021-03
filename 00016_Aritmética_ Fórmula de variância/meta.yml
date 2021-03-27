@@ -24,4 +24,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Nenhuma das anteriores
   checked: false
-name: Novo exercício
+name: 'Aritmética: Fórmula de variância'
