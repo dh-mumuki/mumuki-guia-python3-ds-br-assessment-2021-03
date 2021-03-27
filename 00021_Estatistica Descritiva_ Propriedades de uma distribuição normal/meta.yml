@@ -1,0 +1,27 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Média, Moda e Mediana não são necessariamente iguais
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: É uma distribuição assimétrica
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: A área sob a curva normal assume valores até 1
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: É uma distruibuição importante por modelar vários fenômenos naturais
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Todas as anteriores
+  checked: false
+name: 'Estatistica Descritiva: Propriedades de uma distribuição normal'

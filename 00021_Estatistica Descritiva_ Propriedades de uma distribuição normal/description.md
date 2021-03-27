@@ -1,0 +1,1 @@
+Sobre a distribuição normal pode-se dizer:
