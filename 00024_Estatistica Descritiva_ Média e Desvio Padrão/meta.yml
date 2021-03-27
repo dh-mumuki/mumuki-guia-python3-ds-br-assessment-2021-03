@@ -1,0 +1,27 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 5,00; Aprovado
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 5,00; Reprovado
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 5,25; Aprovado
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 5,25; Reprovado
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 5,25; Não há como responder pois é impossível calcular seu desvio padrão
+  checked: false
+name: 'Estatistica Descritiva: Média e Desvio Padrão'
