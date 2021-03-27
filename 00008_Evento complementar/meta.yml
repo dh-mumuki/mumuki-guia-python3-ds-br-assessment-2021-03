@@ -10,13 +10,16 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: 42,1%
+  value: 42%
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: 0,5%
+  value: 45%
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: 50%
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 40%
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Nenhuma das anteriores
