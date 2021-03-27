@@ -1,0 +1,1 @@
+É mais fácil avaliar o evento complementar.
