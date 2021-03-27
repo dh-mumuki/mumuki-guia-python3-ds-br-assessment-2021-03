@@ -24,4 +24,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: 70, 35, 29
   checked: false
-name: 'Aritmética: Idades'
+name: 'Aritmética: idades'
