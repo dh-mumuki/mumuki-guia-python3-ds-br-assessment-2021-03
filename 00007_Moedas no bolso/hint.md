@@ -1,1 +1,0 @@
-- É mais fácil pensar no evento complementar.
