@@ -1,0 +1,27 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: A fórmula se refere a variância de um conjunto de dados
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: A fórmula se refere ao desvio padrão populacional
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: A fórmula se refere ao desvio padrão amostral
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: S² = 2,5 para o conjunto de dados (2, 3, 4, 5, 6)
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Nenhuma das anteriores
+  checked: false
+name: Novo exercício
