@@ -1,1 +1,1 @@
-São medidas de dispersão:
+São consideradas medidas de dispersão:
