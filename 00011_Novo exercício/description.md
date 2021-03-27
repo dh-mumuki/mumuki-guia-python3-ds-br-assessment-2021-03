@@ -1,0 +1,1 @@
+Três dados são lançados. Qual a probabilidade (aproximadamente) de se obter o número 2 ou 5 em mais de um dado?
