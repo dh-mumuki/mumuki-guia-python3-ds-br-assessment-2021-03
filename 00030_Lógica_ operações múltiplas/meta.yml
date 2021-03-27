@@ -1,0 +1,27 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 381, 1150, 1157
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 380, 1145, 1150
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 380, 1143, 1157
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 381, 1143, 1150
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 381, 1145, 1157
+  checked: false
+name: 'Lógica: operações múltiplas'
