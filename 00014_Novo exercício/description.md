@@ -1,0 +1,1 @@
+Felipe nasceu 6 anos depois da sua irmã Ana. Hoje a idade de Ana é a metade da sua mãe e a soma das idades dos três é 6 vezes a idade do Felipe. Quais são as idades de mãe, Ana e Felipe respectivamente?

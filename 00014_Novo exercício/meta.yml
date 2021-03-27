@@ -1,0 +1,27 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 40, 20, 14
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 50, 25, 19
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 30, 15, 9
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 60, 30, 24
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 70, 35, 29
+  checked: false
+name: Novo exercício
