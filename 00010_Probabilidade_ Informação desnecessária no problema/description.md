@@ -1,0 +1,3 @@
+Aproximadamente 10% dos cachorros da raça cocker desenvolvem problema pulmonares. Sabe-se que desses cockers com doenças pulmonares, 35% precisam ser tratados com remédios humanos para liquido no pulmão e ração especial. A chance de um cachorro de qualquer raça ter esses mesmos problemas é de 5%.
+
+Qual a probabilidade de que um cocker tenha que ser tratado com remédios para liquido no pulmão e ração especial? 
