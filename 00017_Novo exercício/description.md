@@ -1,0 +1,1 @@
+Foram testados 200 notebooks e constatou-se que 60 tinham problemas nos teclados e 48 tinham problemas na placa de vídeo e em 110 notebooks não foram verificados quaisquer problemas. Qual o número de dispositivos que apresentavam os dois problemas?
