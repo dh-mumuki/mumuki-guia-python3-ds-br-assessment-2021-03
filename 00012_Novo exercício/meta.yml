@@ -1,0 +1,29 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Estrutura do loop "while" não é adequada para o problema, escolheria outro
+    método de iteração
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Existe um problema nos sinais de igualdade do loop while,  é necessário revisar
+    o loop
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: É necessário revisar a sintaxe do código
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: A condição de unidades no estoque esta errada, revisaria a clausula condicional
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Todas as anteriores
+  checked: false
+name: Novo exercício
