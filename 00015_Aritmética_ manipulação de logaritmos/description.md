@@ -1,0 +1,1 @@
+Considerando as propriedades dos logaritmos, assinale as alternativas verdadeiras:

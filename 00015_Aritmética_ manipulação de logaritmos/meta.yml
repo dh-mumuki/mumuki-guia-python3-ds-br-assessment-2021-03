@@ -1,0 +1,27 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: log a + log b = log(a * b)
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: log a * log B = log(a + b)
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: log 10 = 1
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: log 10 na base 10 = 1
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Todas as anteriores
+  checked: false
+name: 'Aritmética: manipulação de logaritmos'
