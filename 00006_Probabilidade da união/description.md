@@ -1,0 +1,1 @@
+Se a probabilidade de obter um pedido da empresa _A_ é de 30% e a probabilidade de obter um pedido da empresa _B_ é de 40%, então a probabilidade de obter ao menos um pedido da empresa _A_ **ou** da empresa _B_ é de:

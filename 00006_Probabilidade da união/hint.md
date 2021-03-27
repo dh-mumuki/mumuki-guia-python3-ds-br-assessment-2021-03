@@ -1,0 +1,1 @@
+Lembre-se de que _P(X ∪ Y) = P(X) + P(Y) - P(X ∩ Y)_, onde _P(X)_ é a probabilidade do evento _X_ ocorrer, _∩_ representa a interseção de eventos e _∪_, a união de eventos.
