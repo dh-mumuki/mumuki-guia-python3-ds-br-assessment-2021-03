@@ -6,6 +6,12 @@ class Test(unittest.TestCase):
     
     self.assertEqual(composicao(7,f,g), 17)
     
+  def test_somar_4_depois_de_triplicar_10_resulta_34(self):
+    f = lambda x: 3*x
+    g = lambda x: x + 4
+    
+    self.assertEqual(composicao(10,f,g), 34)
+    
   def test_raiz_quadrada_depois_de_dividir_128_por_2_rsulta_8(self):
     from math import sqrt
     f = lambda x: x/2
