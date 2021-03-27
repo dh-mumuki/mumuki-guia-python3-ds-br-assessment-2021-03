@@ -26,4 +26,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Todas as anteriores
   checked: false
-name: Novo exercício
+name: 'Python: Debug de um código'
